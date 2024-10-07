@@ -1,0 +1,25 @@
+
+    "users": [
+      {
+        "username": "funcionario1",
+        "password": "$2a$10$6X9fV.3L7k16ViXyqUJ2ieI1aRjvMKhGZ6fX2EwQwGQBSZkgvfy0u", 
+        "role": "funcionario"
+      },
+      {
+        "username": "gerente1",
+        "password": "$2a$10$FZsojz1yd.Fy9f1OfS/q1OeB5x1WVVAs9ZdK4y3R./QHJWeM8GguK", 
+        "role": "gerente"
+      },
+      {
+        "username": "admin",
+        "password": "$2a$10$8S6t8tiXg/mK2DseLF5P5uAdY7W5Hz4x8f4eBlcYJwXqZZ9w8wrfe",
+        "role": "admin"
+      }
+    ],
+    "resources": [
+      {
+        "id": 1,
+        "name": "Câmera de Segurança",
+        "type": "Equipamento",
+        "location": "Entrada Principal"
+      }
